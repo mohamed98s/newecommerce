@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/newecommerce/static/css/main.808c339b.css",
-    "main.js": "/newecommerce/static/js/main.2c27f699.js",
-    "static/js/592.fbaa7387.chunk.js": "/newecommerce/static/js/592.fbaa7387.chunk.js",
-    "static/media/blog-img-2.jpeg": "/newecommerce/static/media/blog-img-2.69e5e73301d9616ba8c6.jpeg",
-    "static/media/blog-img-1.jpeg": "/newecommerce/static/media/blog-img-1.3e2f37267e1d1d5c8c75.jpeg",
-    "static/media/slider-image-1.jpeg": "/newecommerce/static/media/slider-image-1.3c3940ee0f1c3b17ff9a.jpeg",
-    "static/media/slider-image-3.jpeg": "/newecommerce/static/media/slider-image-3.7e5c9f7a513f6db6dd5e.jpeg",
-    "static/media/slider-image-2.jpeg": "/newecommerce/static/media/slider-image-2.e510b0de8a4d96a1d5ad.jpeg",
-    "static/media/error.svg": "/newecommerce/static/media/error.084f5f5b0eb10d3216cb7c939108e1f6.svg",
-    "static/media/freshcart-logo.svg": "/newecommerce/static/media/freshcart-logo.53f7a424c3aedc30a0fb46dc2278137c.svg",
-    "static/media/slick.svg": "/newecommerce/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/newecommerce/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/newecommerce/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/newecommerce/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/newecommerce/index.html",
-    "main.808c339b.css.map": "/newecommerce/static/css/main.808c339b.css.map",
-    "main.2c27f699.js.map": "/newecommerce/static/js/main.2c27f699.js.map",
-    "592.fbaa7387.chunk.js.map": "/newecommerce/static/js/592.fbaa7387.chunk.js.map"
+    "main.css": "/static/css/main.73b7bc7e.css",
+    "main.js": "/static/js/main.c64928b3.js",
+    "static/js/592.fbaa7387.chunk.js": "/static/js/592.fbaa7387.chunk.js",
+    "static/media/blog-img-2.jpeg": "/static/media/blog-img-2.69e5e73301d9616ba8c6.jpeg",
+    "static/media/blog-img-1.jpeg": "/static/media/blog-img-1.3e2f37267e1d1d5c8c75.jpeg",
+    "static/media/slider-image-1.jpeg": "/static/media/slider-image-1.3c3940ee0f1c3b17ff9a.jpeg",
+    "static/media/slider-image-3.jpeg": "/static/media/slider-image-3.7e5c9f7a513f6db6dd5e.jpeg",
+    "static/media/slider-image-2.jpeg": "/static/media/slider-image-2.e510b0de8a4d96a1d5ad.jpeg",
+    "static/media/error.svg": "/static/media/error.084f5f5b0eb10d3216cb7c939108e1f6.svg",
+    "static/media/freshcart-logo.svg": "/static/media/freshcart-logo.53f7a424c3aedc30a0fb46dc2278137c.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.73b7bc7e.css.map": "/static/css/main.73b7bc7e.css.map",
+    "main.c64928b3.js.map": "/static/js/main.c64928b3.js.map",
+    "592.fbaa7387.chunk.js.map": "/static/js/592.fbaa7387.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.808c339b.css",
-    "static/js/main.2c27f699.js"
+    "static/css/main.73b7bc7e.css",
+    "static/js/main.c64928b3.js"
   ]
 }
